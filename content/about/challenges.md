@@ -44,6 +44,10 @@ As Birdwatch grows and evolves, we will continue to iterate to ensure it remains
 
 Finally, all Birdwatch contributions are subject to Twitter [Rules](https://help.twitter.com/rules-and-policies/twitter-rules), [Terms of Service](https://twitter.com/tos) and [Privacy Policy](https://twitter.com/privacy). If you think a Birdwatch note might not abide by the rules, you can report it by clicking or tapping the ••• menu on a note, and then selecting "Report”, or by using [this form](https://help.twitter.com/en/forms/birdwatch).
 
+## Separating Misinformation from Evasion
+
+The current design only allows Birdwatch contributors to fact-check tweets that contain misleading claims or outright information. It doesn't address the ambiguity between tweets that evaded Birdwatch contributors and tweets that do not need a fact check. This is a [fundamental flaw in Birdwatch's current design](https://soatok.blog/2021/01/27/twitters-birdwatch-is-fundamentally-flawed/) that should be addressed before it goes live.
+
 ## Feedback? Ideas?
 
 We welcome feedback on these or additional risks and challenges, as well as ideas for addressing them. Please DM us at [@Birdwatch](http://twitter.com/birdwatch).
